@@ -1,3 +1,8 @@
+" Vimball Archiver by Charles E. Campbell, Jr., Ph.D.
+UseVimball
+finish
+syntax/confluencewiki.vim	[[[1
+205
 "============================================================================
 "
 " Confluence WIKI syntax file
